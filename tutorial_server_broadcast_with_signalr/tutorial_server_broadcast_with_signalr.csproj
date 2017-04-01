@@ -109,6 +109,7 @@
     <Content Include="SignalR.Sample\SignalR.StockTicker.js" />
     <Content Include="SignalR.Sample\StockTicker.css" />
     <Content Include="SignalR.Sample\StockTicker.html" />
+    <Content Include="StockTicker.css" />
     <Content Include="StockTicker.html" />
     <Content Include="StockTicker.js" />
     <Content Include="Web.config" />
