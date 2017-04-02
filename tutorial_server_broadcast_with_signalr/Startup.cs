@@ -13,7 +13,7 @@ namespace tutorial_server_broadcast_with_signalr
         {
             // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=316888
             // Any connection or hub wire up and configuration should go here
-            app.MapSignalR();
+            app.MapSignalR("/signalr", new Microsoft.AspNet.SignalR.HubConfiguration());
         }
     }
 }
